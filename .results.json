@@ -5,9 +5,9 @@
     "passes": 2,
     "pending": 0,
     "failures": 4,
-    "start": "2018-07-23T22:32:14.141Z",
-    "end": "2018-07-23T22:32:14.175Z",
-    "duration": 34
+    "start": "2018-07-25T16:57:34.659Z",
+    "end": "2018-07-25T16:57:34.691Z",
+    "duration": 32
   },
   "tests": [
     {
@@ -39,7 +39,7 @@
     {
       "title": "has README.md as a tracked file",
       "fullTitle": "the local repository has README.md as a tracked file",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "no files are being tracked.  Use \"git add .\" to track all files in this repo: expected './my-repository/.git/index' to exist",
@@ -90,7 +90,7 @@
     {
       "title": "has README.md as a tracked file",
       "fullTitle": "the local repository has README.md as a tracked file",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "no files are being tracked.  Use \"git add .\" to track all files in this repo: expected './my-repository/.git/index' to exist",
